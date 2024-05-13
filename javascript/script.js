@@ -1,1 +1,1 @@
-console.log("sinaabedi");
+console.log("sinaabedii");
